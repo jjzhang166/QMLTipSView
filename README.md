@@ -5,6 +5,12 @@ Original source file token from Duoduozhijiao company
 
 http://www.heilqt.com/
 
+## PreView
+
+![预览1](http://7qn7mv.com1.z0.glb.clouddn.com/oschina_222.png)
+
+![预览2](http://7qn7mv.com1.z0.glb.clouddn.com/oschina_333.png)
+
 ## How to Install
 ==================================
 
