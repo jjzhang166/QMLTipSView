@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BDTopUI.qml</file>
+        <file>DDuiShadowBg.qml</file>
+        <file>BDMidUI.qml</file>
+        <file>BDCenterUI.qml</file>
+        <file>BDBottomUI.qml</file>
+        <file>BDStackView.qml</file>
+        <file>BDPrAndNext.qml</file>
+    </qresource>
+</RCC>

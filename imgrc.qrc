@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/tfCloN.png</file>
+        <file>images/tfCloP.png</file>
+        <file>images/arrow-8-left.png</file>
+        <file>images/arrow-8-right.png</file>
+        <file>images/del.png</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>
